@@ -74,16 +74,12 @@ A simple **Library Management System** built using **Java** and **Object-Oriente
 
 
   ## 🧠 Concepts Practiced
+  
+ Java Classes & Objects
+ Encapsulation & Constructors
+ Lists and Data Management
+ Exception Handling
+ Menu-driven User Interface
     
-    Java Classes & Objects
-    
-    Encapsulation & Constructors
-    
-    Lists and Data Management
-    
-    Exception Handling
-    
-    Menu-driven User Interface
-
   ## 🙋‍♂️ Author
     Made by Raunit Goyal  
