@@ -68,9 +68,9 @@ A simple **Library Management System** built using **Java** and **Object-Oriente
       6. Return Book
       7. Exit
       ➡️ Enter your choice: 3
-      📖 Enter book title: The Pragmatic Programmer
-      ✍️ Enter book author: Andy Hunt
-      ✅ Book added: 1. "The Pragmatic Programmer" by Andy Hunt [Available]
+      📖 Enter book title: The Java Programmer
+      ✍️ Enter book author: Raunit Goyal
+      ✅ Book added: 1. "The Java Programmer" by Raunit Goyal [Available]
 
 
   ## 🧠 Concepts Practiced
