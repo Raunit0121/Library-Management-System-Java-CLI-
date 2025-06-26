@@ -45,7 +45,7 @@ A simple **Library Management System** built using **Java** and **Object-Oriente
 
 1. **Clone the repository**
 
-       git clone https://github.com/your-username/library-management-system-java.git
+       git clone https://github.com/Raunit0121/Library-Management-System-Java-CLI-java.git
        cd library-management-system-java
 
 2. **Compile the code**
